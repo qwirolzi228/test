@@ -1,8 +1,8 @@
 import random
 points = {"comp":0,"player":0}
 while True:
-    a = random.randint(10,90)
-    b = random.randint(10,90)
+    a = random.randint(1,9)
+    b = random.randint(1,9)
     op = random.choice(("+","-"))
     if op == "+":
         ans=a+b
