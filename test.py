@@ -17,16 +17,15 @@
 #     print('чётное')
 # else:
 #     print(('не чётное'))
-m = int(input('введите 1 число '))
-n = int(input('введите 2 число '))
-if m<n:
-    for i in range (m,n+1):
-        print(i)
-else:
-    for i in range (m,n-1,-1):
-        print(i)
-sdfghjkl;kjhh
-
+# m = int(input('введите 1 число '))
+# n = int(input('введите 2 число '))
+# if m<n:
+#     for i in range (m,n+1):
+#         print(i)
+# else:
+#     for i in range (m,n-1,-1):
+#         print(i)
+#
 
 
 
